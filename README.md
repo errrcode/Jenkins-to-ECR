@@ -30,6 +30,7 @@ https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 7. Docker Pipeline
 8. Docker plugin
 9. Docker workflow
+10. successfully build
 
 
 GitHub Integration Plugin
